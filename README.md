@@ -5,7 +5,7 @@ Our project mainly focused on showing the amount of fuel in Litres with the help
 
 ## Prototype
 
-![App Screenshot]()
+![App Screenshot](prototype.png)
 
 
 ## Authors
